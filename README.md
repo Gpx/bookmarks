@@ -7,3 +7,4 @@ A list of useful links
 * https://www.codefellows.org/blogs/complete-list-of-javascript-tools A List of Foundational JavaScript Tools
 * http://letsworkshop.com/ Workshop is a daily newsletter delivering the best projects to your inbox.
 * http://uxmovement.com/navigation/why-hover-menus-do-users-more-harm-than-good/
+* http://entity-lookup.leftlogic.com/ quick lookup for html entity codes
