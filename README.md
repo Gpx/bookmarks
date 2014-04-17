@@ -9,3 +9,4 @@ A list of useful links
 * http://uxmovement.com/navigation/why-hover-menus-do-users-more-harm-than-good/
 * http://entity-lookup.leftlogic.com/ quick lookup for html entity codes
 * http://tympanus.net/codrops/2014/04/09/how-to-create-a-circular-progress-button/
+* http://sassme.arc90.com/ apply sass color functions online
