@@ -11,3 +11,4 @@ A list of useful links
 * http://tympanus.net/codrops/2014/04/09/how-to-create-a-circular-progress-button/
 * http://sassme.arc90.com/ apply sass color functions online
 * http://regexr.com/ Test RegExp online
+* https://stripe.com/ web payments checkout
