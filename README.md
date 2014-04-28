@@ -13,3 +13,4 @@ A list of useful links
 * http://regexr.com/ Test RegExp online
 * https://stripe.com/ web payments checkout
 * http://zenorocha.github.io/voice-elements/
+* http://minutes.io take and share meeting notes
