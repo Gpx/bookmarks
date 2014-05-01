@@ -14,3 +14,4 @@ A list of useful links
 * https://stripe.com/ web payments checkout
 * http://zenorocha.github.io/voice-elements/
 * http://minutes.io take and share meeting notes
+* https://ngrok.com/ expose a local web server to the internet
