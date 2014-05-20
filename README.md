@@ -19,3 +19,4 @@ A list of useful links
 * https://projectparfait.adobe.com/ read PSD files online and export CSS and images
 * https://nutty.io/ share ssh session
 * http://ng-cookbook.s3.amazonaws.com/ng-cookbook.pdf AngularJS cookbook
+* https://gitter.im/ chat integrated with GitHub
