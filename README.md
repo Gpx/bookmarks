@@ -21,3 +21,4 @@ A list of useful links
 * http://ng-cookbook.s3.amazonaws.com/ng-cookbook.pdf AngularJS cookbook
 * https://gitter.im/ chat integrated with GitHub
 * https://gitprint.com/ Easily print GitHub markdown to PDF
+* http://titlecapitalization.com/ Automatically Capitalize Your Title
