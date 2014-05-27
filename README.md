@@ -22,3 +22,4 @@ A list of useful links
 * https://gitter.im/ chat integrated with GitHub
 * https://gitprint.com/ Easily print GitHub markdown to PDF
 * http://titlecapitalization.com/ Automatically Capitalize Your Title
+* http://speedcurve.com/ Get continuous feedback on how your front-end code is affecting the performance of your website.
