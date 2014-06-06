@@ -23,3 +23,4 @@ A list of useful links
 * https://gitprint.com/ Easily print GitHub markdown to PDF
 * http://titlecapitalization.com/ Automatically Capitalize Your Title
 * http://speedcurve.com/ Get continuous feedback on how your front-end code is affecting the performance of your website.
+* http://flippinawesome.org/2014/05/21/fixing-typography-inside-of-css-2-d-transforms/ Fixing Typography Inside of CSS 2-D Transforms
